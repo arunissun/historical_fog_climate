@@ -17,6 +17,19 @@ Gandhi A, Bartok B, Ilona J, Musyimi PK, Weidinger T,(2022) Historical fog clima
 
 Arun Gandhi. (2022, June 20). arunissun/historical_fog_climate: v1.2 (Version v1.2). Zenodo. https://doi.org/10.5281/zenodo.6670891
 
+```
+@software{Arun_Gandhi_2022_6670891,
+  author       = {Arun Gandhi},
+  title        = {{Historical_fog_climate: 
+                   v1.2}},
+  month        = june,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {v1.2},
+  doi          = {10.5281/zenodo.6670891},
+  url          = {https://doi.org/10.5281/zenodo.6670891}
+}
+```
 
 
 
